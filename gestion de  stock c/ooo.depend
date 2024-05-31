@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1716813100 source:c:\users\lenovo\desktop\o89\ooo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
+1716813102 source:c:\users\mgu-sc501\desktop\projet\ooo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

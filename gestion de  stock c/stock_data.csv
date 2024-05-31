@@ -1,0 +1,79 @@
+1;PC HP;Portable i5;Ordi;799.99;45;5;1
+2;Clavier RGB;Lumineux;Perif;129.99;30;3;2
+3;Souris Logi;MX Master 3;Perif;99.99;40;4;3
+4;Ecran Dell;27" 4K;Moni;449.99;25;2;4
+5;SSD Samsung;970 EVO 1TB;Stock;179.99;50;5;5
+6;Carte Nvidia;RTX 3060 12GB;Comp;399.99;20;2;6
+7;Boitier NT;H510 ATX;Comp;69.99;15;1;7
+8;Alim Corsai;RM750x 750W;Comp;119.99;20;2;8
+9;RAM Corsair;Vengeance 16GB;Comp;89.99;50;5;9
+10;Carte ASUS;B550-F ATX;Comp;179.99;20;2;10
+11;Disque Seaga;2TB USB 3.0;Stock;89.99;30;3;11
+12;Casque Hyper;Cloud II;Perif;99.99;20;2;12
+13;Clavier Logi;K120 Filaire;Perif;14.99;100;10;13
+14;Souris Raze;Deathadder V2;Perif;69.99;40;4;14
+15;Ecran Sam;24" Full HD;Moni;159.99;30;3;15
+16;SSD Crucial;MX500 500GB;Stock;69.99;50;5;16
+17;PC Dell;Bureau i7;Ordi;999.99;10;1;17
+18;Imprim HP;Envy 5055;Impri;129.99;15;1;18
+19;Routeur TP-L;AX50 WiFi 6;Reseau;149.99;20;2;19
+21;Micro Blue;Yeti USB;Audio;129.99;15;1;21
+22;Batterie Ank;10000mAh;Acc;29.99;50;5;22
+23;Hub USB Ankr;4 Ports;Acc;19.99;30;3;23
+24;Station Dell;D3100 USB;Acc;159.99;10;1;24
+25;Office 365;Microsoft;Logiciel;99.99;50;5;25
+26;Carte TP-Lin;WiFi PCIe;Reseau;29.99;40;4;26
+27;Ventilateur;Hyper 212;Comp;39.99;20;2;27
+28;Tablette Wac;Intuos;Perif;79.99;15;1;28
+29;Switch Netge;8 Ports;Reseau;49.99;25;2;29
+30;Chargeur Ar;30W USB C;Acc;24.99;30;3;30
+31;Kit iFixit;Réparation;Outils;29.99;20;2;31
+32;Adaptateur;Vers VGA;Acc;12.99;35;5;32
+33;Cable Cat6;Ethernet 1m;Reseau;5.99;100;10;33
+34;ThinkPad Len;Portable i7;Ordi;1299.99;10;1;34
+35;Écran ASUS;Gaming 27";Moni;299.99;20;2;35
+36;SSD WD;Blue 1TB;Stock;119.99;30;3;36
+37;Processeur A;Ryzen 7 5800X;Comp;399.99;15;1;37
+38;Clavier Logi;MK270 Sans Fil;Perif;29.99;50;5;38
+39;Disque Tosh;Interne 4TB;Stock;99.99;20;2;39
+40;Carte AMD;RX 6800 16GB;Comp;599.99;10;1;40
+41;Alim EVGA;600W Bronze;Comp;49.99;20;2;41
+42;RAM G.Skill;Ripjaws 32GB;Comp;149.99;20;2;42
+43;Carte MSI;B550 Edge ATX;Comp;159.99;15;1;43
+44;Routeur Netg;AX12 WiFi 6;Reseau;399.99;10;1;44
+45;Webcam Micro;LifeCam HD;Perif;39.99;25;2;45
+46;Casque Steel;Arctis 7;Audio;149.99;15;1;46
+47;Batterie Rav;20000mAh;Acc;39.99;30;3;47
+48;Hub Satechi;Multiport USB;Acc;59.99;20;2;48
+49;Station HP;Thunderbolt;Acc;249.99;10;1;49
+50;Photoshop;Retouche;Logiciel;239.99;20;2;50
+51;Carte Intel;WiFi 6 AX200;Reseau;39.99;25;2;51
+52;Refroidiseur;H100i Liquide;Comp;119.99;15;1;52
+53;Tablette Hio;Kamvas;Perif;199.99;10;1;53
+54;Switch DLink;16 Ports;Reseau;99.99;10;1;54
+55;Chargeur Ank;Sans Fil;Acc;19.99;50;5;55
+56;Kit iFixit;Tournevis;Outils;19.99;25;2;56
+57;Adaptateur;Multiport;Acc;19.99;35;5;57
+58;SSD Kingston;A2000 500GB;Stock;59.99;40;4;58
+59;Processeur;Ryzen 5 3600;Comp;199.99;20;2;59
+60;Carte ASUS;TUF Gaming;Comp;299.99;15;1;60
+61;Clavier Raze;Ornata Chroma;Perif;79.99;20;2;61
+62;Disque WD;My Passport;Stock;119.99;30;3;62
+63;Routeur Asus;RT-AX88U;Reseau;299.99;15;1;63
+64;Micro Rode;NT-USB;Audio;169.99;10;1;64
+65;Casque Bose;QuietComfort;Audio;299.99;10;1;65
+66;Batterie Sam;Fast Charge;Acc;34.99;40;4;66
+67;Hub Belkin;USB C 7 en 1;Acc;69.99;20;2;67
+68;Station Targ;USB C Dual;Acc;139.99;10;1;68
+69;Logiciel;AutoCAD LT;Logiciel;499.99;5;1;69
+70;Carte Netgea;Nighthawk;Reseau;149.99;10;1;70
+71;Refroidiseur;NH-D15;Comp;89.99;20;2;71
+72;Tablette XP-;Artist 12;Perif;199.99;10;1;72
+73;Switch Cisco;SG350-28;Reseau;399.99;5;1;73
+74;Chargeur Rav;65W USB C;Acc;49.99;20;2;74
+75;Kit Precisi;64 en 1;Outils;24.99;25;2;75
+76;Adaptateur;USB C HDMI;Acc;34.99;15;3;76
+77;SSD Samsung;T5 500GB;Stock;89.99;30;3;77
+78;Processeur;Ryzen 5 3600;Comp;199.99;20;2;78
+79;Carte Gigab;B450 AORUS M;Comp;99.99;20;2;79
+80;Clavier Cors;K95 RGB Plat;Perif;199.99;15;1;80
